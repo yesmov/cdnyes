@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>YesMovies.to</ShortName>
+    <Description>Search for Movies &amp; TV shows</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image height="16" width="16" type="image/x-icon">https://yesmovies.to/favicon.ico</Image>
+    <Url type="text/html" method="post" template="https://yesmovies.to/search.html">
+    <Param name="keyword" value="{searchTerms}"/>
+	</Url>
+</OpenSearchDescription>

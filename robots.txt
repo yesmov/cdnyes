@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /ajax/?*
+
+Sitemap: https://yesmovies.to/sitemap.xml
